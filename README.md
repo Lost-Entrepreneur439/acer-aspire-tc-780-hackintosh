@@ -5,7 +5,7 @@
 
 This is a macOS Ventura EFI for the Acer Aspire TC-780, with support for Intel Wi-Fi cards. 13.3.1a working, with OpenCore 0.9.1 and fully up to date kexts. Remember to keep your kexts and OpenCore up to date! I recommend OCAuxiliaryTools to keep your kexts and OpenCore up to date. Remember to change your SMBIOS data too.
 
-![Screenshot](https://github.com/Lost-Entrepreneur439/acer-aspire-tc-780-hackintosh-ventura/blob/main/psrklly684wa1.png0
+![Screenshot](https://github.com/Lost-Entrepreneur439/acer-aspire-tc-780-hackintosh-ventura/blob/main/psrklly684wa1.png)
 
 # Specs of my specific unit:
 

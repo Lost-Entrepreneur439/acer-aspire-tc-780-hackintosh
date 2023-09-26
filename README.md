@@ -1,7 +1,11 @@
-# acer-aspire-tc-780-hackintosh-ventura
- A prebuilt OpenCore EFI for macOS Ventura on the Acer Aspire TC-780
+# acer-aspire-tc-780-hackintosh
+ A prebuilt OpenCore EFI for macOS on the Acer Aspire TC-780
 
-This is a macOS Ventura EFI for the Acer Aspire TC-780, with support for Intel Wi-Fi cards. 13.5.1 working, with OpenCore 0.9.4 and fully up to date kexts. Remember to keep your kexts and OpenCore up to date! Remember to change your SMBIOS data too.
+**WARNING! If running Sonoma, ethernet IS required for initial half of setup if you use an internet-based installer. You will need to install Heliport for Wi-Fi. Ventura users can use Wi-Fi with no issues.**
+
+Use 1.x releases for Ventura, 2.x releases for Sonoma.
+
+This is a macOS EFI for the Acer Aspire TC-780, with support for Intel Wi-Fi cards. Ventura and Sonoma compatible
 
 ![Screenshot](https://github.com/Lost-Entrepreneur439/acer-aspire-tc-780-hackintosh-ventura/blob/main/psrklly684wa1.png)
 
